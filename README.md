@@ -147,3 +147,35 @@ Clave: dHe4fvQo1S1SPFgX+d?7iDjUIrAgO170
 ![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/e297de24-f04a-467c-8fc1-1792773b88f5)
 
 Figura 17 Resumen de la Instalación completa.
+
+Ingresamos a la página principal de wazuh para validar el acceso. En la figura 18 se puede observar el acceso remoto a la pantalla de inicio de Wazuh
+
+![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/99e9e2e2-e58f-4d00-8963-32c1815ee069)
+
+Figura 18 Inicio Wazuh
+
+En la figura 19 se agrega en el portal del wazuh la IP del servidor y el nombre del agente que corresponde.
+
+![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/43621d1f-2f38-4f8a-b54d-4e6d02e3be9c)
+
+Figura 19 Ip de del servidor Wazuh y nombre del agente.
+
+Wazuh te brinda ya la línea de código que se debe de correr en el server de Windows (ver Figura 20)
+
+![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/2269e1f0-ec23-4b80-9a14-d2ccc8d31e49)
+
+Figura 20 Código brindando por el portal del Wazuh.
+ 
+En los Windows server seleccionados realizamos la instalación con la línea de código facilitado por Wazuh en PowerShell de la Figura 21
+
+![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/26297350-63ff-4e4d-bb36-f1a3161a0e13)
+
+Figura 21 Wazuh Agent instalado e iniciado.
+ 
+Una vez instalados los agentes podemos observarlos de la siguiente manera en la página principal del administrador de wazuh como se observa en la Figura 22.
+
+![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/46af8061-fd5c-4887-b3b1-d9194fbabc10)
+
+Figura 22 Dashboard del Wazuh
+ 
+
