@@ -1,4 +1,4 @@
-![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/4851080f-665a-4567-ba1f-9ea6cc44b0de) ![image]
+![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/4851080f-665a-4567-ba1f-9ea6cc44b0de) 
 ![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/bb77ee06-6bd4-4008-bfd7-e6c3f6f95374)
 
 
