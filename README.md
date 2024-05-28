@@ -1,4 +1,6 @@
-(https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/d998a45c-a1a8-4ed2-9419-9748f11c19cf) ![image](https://github.com/lazuniga03/pfsense-maestria-grupo3/assets/144503813/f385eb05-fb30-461a-9a17-b5ae8c681686)
+![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/f081b0b1-0016-438f-b212-4ef91c87b427)
+
+(https://github.com/lazuniga03/pfsense-maestria-grupo3/assets/144503813/f385eb05-fb30-461a-9a17-b5ae8c681686)
 
 # Wazuh-maestria-grupo3
 Dimensionamiento de maquina virtual, pasos a seguir para la instalación y 
