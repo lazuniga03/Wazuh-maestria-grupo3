@@ -1,4 +1,4 @@
-![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/f081b0b1-0016-438f-b212-4ef91c87b427)
+![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/f46667ac-f897-4e95-abea-2fbe24934221) ![image](https://github.com/lazuniga03/Wazuh-maestria-grupo3/assets/144503813/f081b0b1-0016-438f-b212-4ef91c87b427)
 
 (https://github.com/lazuniga03/pfsense-maestria-grupo3/assets/144503813/f385eb05-fb30-461a-9a17-b5ae8c681686)
 
